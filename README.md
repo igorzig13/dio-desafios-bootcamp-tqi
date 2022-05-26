@@ -1,5 +1,2 @@
-# dio-desafio-bootcamp
-Repositório para desafios de projeto no Bootcamp DIO
-
-
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
+# Repositório / Portifólio - Desafios de Projeto
+Repositório para desafios de projeto realizados Bootcamp da TQI na Digital Innovation One.
